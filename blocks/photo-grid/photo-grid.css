@@ -1,8 +1,5 @@
 .photo-grid {
   max-width: 1184px;
   margin: 0 auto;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 16px;
   padding-bottom: 92px;
 }

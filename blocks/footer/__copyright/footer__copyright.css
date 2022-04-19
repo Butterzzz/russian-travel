@@ -6,13 +6,13 @@
 
 @media screen and (min-width: 586px) and (max-width: 767px) {
   .footer__copyright {
-    margin-top: 38px
+    margin-top: 38px;
   }
 }
 
 @media screen and (max-width: 585px) {
   .footer__copyright {
     line-height: 14px;
-    margin-top: 48px
+    margin-top: 48px;
   }
 }
